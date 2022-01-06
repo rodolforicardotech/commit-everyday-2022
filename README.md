@@ -1,6 +1,8 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+06: Planejamento de atividades para os dias. Atualização do Readme do perfil.
+
 05: Google Analytics funcionando no blog!
 
 04: Aprendi o comando gitk. Abre uma nova janela com uma interface para uma melhor visualização.
