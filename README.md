@@ -1,6 +1,8 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+05: Google Analytics funcionando no blog!
+
 04: Aprendi o comando gitk. Abre uma nova janela com uma interface para uma melhor visualização.
 
 03: As alterações no site continuam. Hoje também iniciei o projeto Cientista de Dados em 2022. Em breve gravarei o vídeo com o planejamento!
