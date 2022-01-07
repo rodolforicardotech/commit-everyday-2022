@@ -1,6 +1,8 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+07: Consegui adicionar as referências do blog no Readme (assim como criar o próprio readme do blog)
+
 06: Planejamento de atividades para os dias. Atualização do Readme do perfil.
 
 05: Google Analytics funcionando no blog!
