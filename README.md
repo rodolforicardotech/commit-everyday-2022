@@ -2,6 +2,9 @@
 ---
 ## Janeiro
 
+10: Análise do jogo do Salinas realizado. Agora, passaremos os dados para o banco. Pesquisei como plotar um gráfico de setas em uma imagem de campo.
+É possível fazer isso com o próprio Python!
+
 09: 
 Melhorando os relacionamentos das tabelas do Salinas e pegando referências dos sites de estatísticas esportiva
 
