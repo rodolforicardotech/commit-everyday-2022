@@ -1,6 +1,10 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+
+09: 
+Melhorando os relacionamentos das tabelas do Salinas e pegando referências dos sites de estatísticas esportiva
+
 08: Criei o esquema de banco de dados do Salinas. Estudando tipos de relacionamentos no banco de dados.
 
 07: Consegui adicionar as referências do blog no Readme (assim como criar o próprio readme do blog)
