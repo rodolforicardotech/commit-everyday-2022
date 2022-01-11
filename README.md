@@ -2,6 +2,12 @@
 ---
 ## Janeiro
 
+11: Tabela do Salinas desenhada e agora passaremos para o LucidChart.
+No trabalho, aprendi a criar uma FUNCTION no SQL.
+NOTA: FUNCTION retorna algo.
+PROCEDURE escreve algo no banco.
+Consegui adicionar as funções no JS para coletar os dados dos campos ao clicar o botão. Vamos nessa!
+
 10: Análise do jogo do Salinas realizado. Agora, passaremos os dados para o banco. Pesquisei como plotar um gráfico de setas em uma imagem de campo.
 É possível fazer isso com o próprio Python!
 
