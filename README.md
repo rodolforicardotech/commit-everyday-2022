@@ -1,6 +1,7 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+12: 
 
 11: Tabela do Salinas desenhada e agora passaremos para o LucidChart.
 No trabalho, aprendi a criar uma FUNCTION no SQL.
