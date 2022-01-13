@@ -1,7 +1,9 @@
 # commit-everyday-2022
 ---
 ## Janeiro
-12: 
+13: Criação do padrão de análise dados do Salinas. Facilitará para a passagem para Dataframe.
+
+12: Várias movimentações no txt e csv.
 
 11: Tabela do Salinas desenhada e agora passaremos para o LucidChart.
 No trabalho, aprendi a criar uma FUNCTION no SQL.
