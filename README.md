@@ -1,6 +1,9 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+14: Início de estudos na API; montagem do banco de jogadores do Salinas utilizando o LucidChart.
+Criei um código em Python para tirar onda com o SFEP no Instagram (Solta o tantã!) 😂
+
 13: Criação do padrão de análise dados do Salinas. Facilitará para a passagem para Dataframe.
 
 12: Várias movimentações no txt e csv.
