@@ -1,6 +1,11 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+16: Estudos sobre regras de negócio.
+Carteira em Análise de Dados
+Criação de Currículo para vagas específicas
+Otimização do perfil do LinkedIn
+
 15: Post sobre porque criar um blog. Estudos sobre como postar
 
 14: Início de estudos na API; montagem do banco de jogadores do Salinas utilizando o LucidChart.
