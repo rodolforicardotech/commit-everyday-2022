@@ -1,6 +1,8 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+15: Post sobre porque criar um blog. Estudos sobre como postar
+
 14: Início de estudos na API; montagem do banco de jogadores do Salinas utilizando o LucidChart.
 Criei um código em Python para tirar onda com o SFEP no Instagram (Solta o tantã!) 😂
 
