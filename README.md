@@ -1,6 +1,9 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+17: Função no SQL, como fazer. Ainda estou empacado!
+
+
 16: Estudos sobre regras de negócio.
 Carteira em Análise de Dados
 Criação de Currículo para vagas específicas
