@@ -21,6 +21,7 @@ delimiter ;
 Regrinhas:
 Função no SQL
 
+
 Select NOME DA FUNCTION
 GO
 
@@ -44,7 +45,8 @@ END
 GO
 
 Para chamar uma função:
-SELECT nomedafuncao FROM tabela.
+SELECT nomedafuncao FROM tabela
+
 
 **17**: Função no SQL, como fazer. Ainda estou empacado!
 
