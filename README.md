@@ -1,7 +1,52 @@
 # commit-everyday-2022
 ---
 ## Janeiro
-17: Função no SQL, como fazer. Ainda estou empacado!
+**18**: Consegui criar uma function no MySQL:
+```CREATE function fcVerificarSalario(parametro decimal)
+RETURNS varchar (20)
+deterministic
+BEGIN
+	declare valorsalario decimal;
+	declare situacao varchar(20);
+	select salario INTO valorsalario from empregados where codigo = parametro;
+
+	if valorsalario > 1 then
+		set situacao = 'Baixo';
+	end if;
+	return situacao ;	
+END $$
+delimiter ;
+```
+
+Regrinhas:
+Função no SQL
+
+Select NOME DA FUNCTION
+GO
+
+Para criar uma function:
+CREATE FUNCTION (@parametro1 tipo parametro1, @parametro2 tipo parametro2, etc)
+RETURNS tipo do retorno (int, varchar, etc)
+
+BEGIN
+-- para declarar as variáveis
+-- um DECLARE para cada variável
+
+DECLARE @NOME DA VARIAVEL1 tipo da variavel1;
+DECLARE @NOME DA VARIAVEL2 tipo da variavel2;
+
+-- depois disso, vem a lógica (ifs, loops, etc)
+
+-- por fim, haverá o retorno
+RETURN @variável de retorno
+
+END
+GO
+
+Para chamar uma função:
+SELECT nomedafuncao FROM tabela.
+
+**17**: Função no SQL, como fazer. Ainda estou empacado!
 
 
 16: Estudos sobre regras de negócio.
