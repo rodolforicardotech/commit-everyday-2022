@@ -1,6 +1,8 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+**19**: Criação das Issues no repositório da Atlântico (Data Discovery)
+
 **18**: Consegui criar uma function no MySQL:
 ```CREATE function fcVerificarSalario(parametro decimal)
 RETURNS varchar (20)
