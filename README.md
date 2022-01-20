@@ -1,6 +1,15 @@
 # commit-everyday-2022
 ---
 ## Janeiro
+
+
+| Dia      | Commit |
+|----------|--------------:|
+| 20       | Inserindo tabela no commit. Aprendi que o Layout pode seguir sem problemas que a formatação continua|
+
+Minha internet está fraca hoje. Aguardando normalizar!
+
+
 **19**: Criação das Issues no repositório da Atlântico (Data Discovery)
 
 **18**: Consegui criar uma function no MySQL:
