@@ -4,7 +4,7 @@
 
 
 | Dia      | Commit |
-|----------|--------------:|
+|----------|:--------------:|
 | 20       | Inserindo tabela no commit. Aprendi que o Layout pode seguir sem problemas que a formatação continua|
 
 Minha internet está fraca hoje. Aguardando normalizar!
