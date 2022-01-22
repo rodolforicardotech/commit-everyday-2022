@@ -5,7 +5,9 @@
 
 | Dia      | Commit |
 |----------|:--------------:|
-| 20       | Inserindo tabela no commit. Aprendi que o Layout pode seguir sem problemas que a formatação continua|
+|22|Otimizando o MVP do Data Discovery One|
+|21|Aprendi o comando *git branch -a* para mostrar as branchs do repositório clonado| 
+|20       | Inserindo tabela no commit. Aprendi que o Layout pode seguir sem problemas que a formatação continua|
 
 Minha internet está fraca hoje. Aguardando normalizar!
 
