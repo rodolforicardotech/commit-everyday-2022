@@ -5,6 +5,7 @@
 
 | Dia      | Commit |
 |----------|:--------------:|
+|23|Git pull no repositório do Data Discovery com o MVP atualizado|
 |22|Otimizando o MVP do Data Discovery One<br>Aprendi a criar uma **milestone** aqui no GitHub<br>Aprendi a criar uma **nova linha no conteúdo da tabela**|
 |21|Aprendi o comando *git branch -a* para mostrar as branchs do repositório clonado| 
 |20       | Inserindo tabela no commit.<br>Aprendi que o Layout pode seguir sem problemas que a formatação continua|
