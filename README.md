@@ -5,6 +5,7 @@
 
 | Dia      | Commit |
 |----------|:--------------:|
+|24|Adicionei códigos ao repositório do Data Discovery One com as atualizações<br>Wordcloud, contagem e nota média|
 |23|Git pull no repositório do Data Discovery com o MVP atualizado<br>Foi preciso o *git stash* para 'passar por cima' das modificações locais|
 |22|Otimizando o MVP do Data Discovery One<br>Aprendi a criar uma **milestone** aqui no GitHub<br>Aprendi a criar uma **nova linha no conteúdo da tabela**|
 |21|Aprendi o comando *git branch -a* para mostrar as branchs do repositório clonado| 
