@@ -5,6 +5,8 @@
 
 | Dia      | Commit |
 |----------|:--------------:|
+|27|Quase finalizando a função e query da atividade do estágio!|
+|26|NÃO COMMITEI!!!!!!!!!!! :////|
 |25|Função para converter a competência criada no SQL Server<br>*MM/AAAA* para *AAAAMM*<br>Reunião de ensaio com a Data DiscoveryOne|
 |24|Adicionei códigos ao repositório do Data Discovery One com as atualizações<br>Wordcloud, contagem e nota média<br>Alias no terminal, com a ajuda desse vídeo:<br>https://www.youtube.com/watch?v=0liXeoADU6A<br>**sudo nano .bash_profile**| 
 |23|Git pull no repositório do Data Discovery com o MVP atualizado<br>Foi preciso o *git stash* para 'passar por cima' das modificações locais|
