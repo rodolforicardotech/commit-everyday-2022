@@ -5,6 +5,7 @@
 
 | Dia      | Commit |
 |----------|:--------------:|
+|28|Entendendo o Back-end da atividade do estágio.|
 |27|Quase finalizando a função e query da atividade do estágio!|
 |26|NÃO COMMITEI!!!!!!!!!!! :////|
 |25|Função para converter a competência criada no SQL Server<br>*MM/AAAA* para *AAAAMM*<br>Reunião de ensaio com a Data DiscoveryOne|
