@@ -5,6 +5,8 @@
 
 | Dia      | Commit |
 |----------|:--------------:|
+|31|Back-end puxado!|
+|30|Issues fechadas|
 |29|Encerramento do Atlântico Academy Future! Uhuuuu!|
 |28|Entendendo o Back-end da atividade do estágio.|
 |27|Quase finalizando a função e query da atividade do estágio!|
