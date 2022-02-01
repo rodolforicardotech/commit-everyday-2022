@@ -1,5 +1,10 @@
 # commit-everyday-2022
 ---
+## Fevereiro
+|Dia|Commit|
+|------|:-------:|
+|01|Arrumações e start no projeto GeoTrash. NHibernate no estágio.|
+
 ## Janeiro
 
 
