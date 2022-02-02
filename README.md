@@ -3,6 +3,7 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|02|Iniciando os estudos para o projeto Cientista de Dados em 2022.<br>Escritório arrumado!<br>Foco!|
 |01|Arrumações e start no projeto GeoTrash. NHibernate no estágio.|
 
 ## Janeiro
