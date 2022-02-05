@@ -3,6 +3,8 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|04|Atividade do trabalho quase finalizada!<br>Percepção dos estudos|
+|03|Adiantando atividade do estágio|
 |02|Iniciando os estudos para o projeto Cientista de Dados em 2022.<br>Escritório arrumado!<br>Foco!|
 |01|Arrumações e start no projeto GeoTrash. NHibernate no estágio.|
 
