@@ -3,6 +3,8 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|07|Tentando mostrar a consulta do banco no front!|
+|06|Organização dos estudos semanais.|
 |05|Gabi's!<br>Coleta de Dados jogo Salinas. Estou testando transcrever o áudio para texto.|
 |04|Atividade do trabalho quase finalizada!<br>Percepção dos estudos|
 |03|Adiantando atividade do estágio|
