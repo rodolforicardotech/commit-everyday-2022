@@ -3,6 +3,7 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|09|Avanço no projeto IMDB<br>Slide do primeiro vídeo do projeto Cientista de Dados feito!<br>Noções de QA<br>Avanço na atividade do gráfico no Estágio!|
 |08|Repositório imdb<br>Questões relacionadas<br>Variável com sql server check|
 |07|Tentando mostrar a consulta do banco no front!|
 |06|Organização dos estudos semanais.|
