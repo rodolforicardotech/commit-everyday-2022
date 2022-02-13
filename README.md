@@ -3,6 +3,8 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|13|Finalizando o código de análise dos filmes de 2021<br>Estudo sobre branches no Git e GitHub|
+|12|Adiantando projetos pessoais|
 |11|Projetos novos<br>Codando!|
 |10|Codando!|
 |09|Avanço no projeto IMDB<br>Slide do primeiro vídeo do projeto Cientista de Dados feito!<br>Noções de QA<br>Avanço na atividade do gráfico no Estágio!|
