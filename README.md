@@ -3,6 +3,7 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|14|Projeto pra frente<br>Atualizações LinkedIn|
 |13|Finalizando o código de análise dos filmes de 2021<br>Estudo sobre branches no Git e GitHub<br>ZSH novamente!|
 |12|Adiantando projetos pessoais|
 |11|Projetos novos<br>Codando!|
