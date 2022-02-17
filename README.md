@@ -3,6 +3,7 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|17||
 |16|POO e Projeto Lançado! |
 |15|Primeiro vídeo gravado! Amanhã é o lançamento!<br>Foco e produtividade hoje!<Br>Avancei na atividade do estágio, falta ajeitar a conexão com o banco!|
 |14|Projeto pra frente<br>Atualizações LinkedIn|
