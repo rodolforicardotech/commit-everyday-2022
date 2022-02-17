@@ -3,6 +3,7 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|16|POO e Projeto Lançado! |
 |15|Primeiro vídeo gravado! Amanhã é o lançamento!<br>Foco e produtividade hoje!<Br>Avancei na atividade do estágio, falta ajeitar a conexão com o banco!|
 |14|Projeto pra frente<br>Atualizações LinkedIn|
 |13|Finalizando o código de análise dos filmes de 2021<br>Estudo sobre branches no Git e GitHub<br>ZSH novamente!|
