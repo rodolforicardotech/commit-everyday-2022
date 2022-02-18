@@ -3,6 +3,7 @@
 ## Fevereiro
 |Dia|Commit|
 |------|:-------:|
+|18|Estudando sobre projetos possíveis para o portfólio|
 |17|consulta no estágio quase funciona!<br>Estudo de alguns temas de Data Science<br>Escrevi segundo episódio do projeto<br>Iniciei o curso de Python do Kaggle<br>Me inscrevi no HackerRank|
 |16|POO e Projeto Lançado! |
 |15|Primeiro vídeo gravado! Amanhã é o lançamento!<br>Foco e produtividade hoje!<Br>Avancei na atividade do estágio, falta ajeitar a conexão com o banco!|
